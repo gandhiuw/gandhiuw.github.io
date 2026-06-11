@@ -20,3 +20,10 @@
 #### Podcasts
 * [The InfoQ Podcast](https://www.infoq.com/the-infoq-podcast/)
 * [Cut The Clutter with Shekhar Gupta](https://open.spotify.com/show/6qWVpuzXNlsgSHgMAO6o5l)
+
+## Favorite Seattle Restaurants
+* [Uneeda Burger](https://uneedaburger.com/)
+* [Carmelo's Tacos](https://carmelostacos.com/)
+* [El Cubano](https://elcubanotogowa.com/)
+* [Seatango](https://seatangofoods.com/)
+* [Windy City Pie](https://windycitypie.com/)
