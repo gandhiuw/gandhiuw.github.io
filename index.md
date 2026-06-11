@@ -27,3 +27,5 @@
 * [El Cubano](https://elcubanotogowa.com/)
 * [Seatango](https://seatangofoods.com/)
 * [Windy City Pie](https://windycitypie.com/)
+* [B-Side foods](https://b-side-foods-online.square.site/)
+* [Morsel](https://www.morselseattle.com/)
