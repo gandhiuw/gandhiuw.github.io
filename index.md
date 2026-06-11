@@ -29,4 +29,4 @@
 * [Windy City Pie](https://windycitypie.com/)
 * [B-Side foods](https://b-side-foods-online.square.site/)
 * [Morsel](https://www.morselseattle.com/)
-* [Giorgio's Greek Cafe(_Pizza Only_)](https://www.giorgiosgreekcafe.com/)
+* [Giorgio's Greek Cafe (_Pizza Only_)](https://www.giorgiosgreekcafe.com/)
