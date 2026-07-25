@@ -17,3 +17,4 @@
 * [B-Side foods](https://b-side-foods-online.square.site/)
 * [Morsel](https://www.morselseattle.com/)
 * [Giorgio's Greek Cafe (_Pizza Only_)](https://www.giorgiosgreekcafe.com/)
+* [Taqueria Los Amigos](https://taquerialosamigoswa.com/)
